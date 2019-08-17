@@ -1806,19 +1806,17 @@ input[type=text], input[type=email], input[type=url], input[type=password] {
 }
 
 .post-content h1, .post-content h2, .post-content h3, .post-content h4, .post-content h5, .post-content h6 {
-    padding: 0 0 0 15px;
-    font-weight: 400;
+    font-weight: 600;
     line-height: 1.5;
-    border-left: 3px solid #333;
-    margin: 20px 0 10px
+    margin: 20px 10px 10px
 }
 
 .post-content h1 {
-    font-size: 24px
+    font-size: 25px
 }
 
 .post-content h2 {
-    font-size: 22px
+    font-size: 23px
 }
 
 .post-content a:not([class~=fancybox], [class~=copy-code]) {
