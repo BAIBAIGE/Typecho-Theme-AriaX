@@ -1524,7 +1524,7 @@ input[type=text], input[type=email], input[type=url], input[type=password] {
 }
 
 #nav-vertical {
-    width: 14rem;
+    width: auto;
     height: 100%;
     max-width: 450px;
     overflow-x: hidden;
@@ -1564,12 +1564,11 @@ input[type=text], input[type=email], input[type=url], input[type=password] {
 .nav-vertical-list {
     list-style: none;
     padding: 0;
-    margin: 0
+    margin: 0 20px
 }
 
 .nav-vertical-item {
-    margin: 10px;
-    padding-left: 50px
+    margin: 15px 0
 }
 
 .nav-vertical-item, .nav-vertical-item i {
