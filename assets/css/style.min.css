@@ -2108,6 +2108,7 @@ pre .lang {
 }
 
 .post-content table:not([class*=hljs-ln]) td:first-child, .post-content table:not([class*=hljs-ln]) th:first-child {
+    white-space: pre;
     border-left: none
 }
 
