@@ -1670,7 +1670,7 @@ input[type=text], input[type=email], input[type=url], input[type=password] {
 }
 
 #site-name {
-    font-weight: 300;
+    font-weight: 400;
     margin-top: 5px;
     margin-bottom: 7px;
     font-size: 5rem
@@ -1703,6 +1703,7 @@ input[type=text], input[type=email], input[type=url], input[type=password] {
 
 .card-title {
     font-size: 20px;
+    font-weight: 600;
     line-height: 1.4
 }
 
@@ -1745,7 +1746,7 @@ input[type=text], input[type=email], input[type=url], input[type=password] {
     margin: 10px 0;
     overflow: hidden;
     font-size: 0;
-    border-bottom: 1px solid #e1e1e1
+    border-bottom: 1px dashed #e1e1e1
 }
 
 .card-meta-bottom {
@@ -1774,6 +1775,7 @@ input[type=text], input[type=email], input[type=url], input[type=password] {
 .post-title {
     text-align: center;
     font-size: 1.5rem;
+    font-weight: 600;
     margin: 20px auto
 }
 
