@@ -1496,7 +1496,7 @@ input[type=text], input[type=email], input[type=url], input[type=password] {
 
 .sub-item {
     white-space: nowrap;
-    text-align: center;
+    text-align: left;
     margin: 10px
 }
 
