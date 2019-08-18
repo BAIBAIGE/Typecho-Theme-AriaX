@@ -1,4 +1,13 @@
+# Typecho-Theme-AriaX
+
+[Typecho-Theme-Aria](https://github.com/Siphils/Typecho-Theme-Aria) 自用~~魔改~~版
+
+魔改内容详见 [Commit](https://github.com/P3TERX/Typecho-Theme-AriaX/commits/master)
+
+下面是原版的介绍
+
 # Typecho-Theme-Aria  
+
 > 书写自己的篇章  
 
 ![screenshot](https://github.com/Siphils/Typecho-Theme-Aria/blob/master/screenshot.png?raw=true)  
