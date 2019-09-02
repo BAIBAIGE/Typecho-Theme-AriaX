@@ -1996,8 +1996,7 @@ input[type=text], input[type=email], input[type=url], input[type=password] {
     word-wrap: break-word;
     color: #555;
     background: #eee;
-    border-radius: 3px;
-    font-size: 14px
+    border-radius: 3px
 }
 
 .hljs {
