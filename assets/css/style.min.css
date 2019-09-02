@@ -1983,7 +1983,8 @@ input[type=text], input[type=email], input[type=url], input[type=password] {
     color: #fff;
     position: absolute;
     right: 10px;
-    top: 0
+    top: 0;
+    border-bottom: unset !important
 }
 
 .highlight-wrap .copy-code:hover {
