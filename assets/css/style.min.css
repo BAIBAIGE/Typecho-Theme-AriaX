@@ -58,7 +58,7 @@ hr {
 }
 
 code, kbd, pre, samp {
-    font-family: monospace, monospace;
+    font-family: Menlo, Monaco, Consolas, Courier New, monospace;
     font-size: 1em
 }
 
@@ -2038,7 +2038,7 @@ pre .lang {
     text-align: center;
     color: #fff;
     background: #1d1f21;
-    font-family: monospace, Helvetica, Tahoma, Arial, STXihei, "STHeiti Light", "Microsoft YaHei", sans-serif;
+    font-family: Menlo, Monaco, Consolas, Courier New, monospace;
     vertical-align: top;
     position: absolute;
     left: 0;
