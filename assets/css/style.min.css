@@ -1999,6 +1999,15 @@ input[type=text], input[type=email], input[type=url], input[type=password] {
     border-radius: 3px
 }
 
+.comment-body .comment-text code:not([class~=hljs]) {
+    padding: 2px 8px;
+    margin: 0 4px;
+    word-wrap: break-word;
+    color: #555;
+    background: #eee;
+    border-radius: 3px
+}
+
 .hljs {
     padding-left: 10px
 }
