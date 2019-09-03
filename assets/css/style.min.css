@@ -1204,7 +1204,7 @@ summary {
 body {
     background-color: #f2f2f2;
     color: #444;
-    font-family: BlinkMacSystemFont, "Microsoft YaHei", "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-family: system, -apple-system, BlinkMacSystemFont, "PingFang SC", "Microsoft YaHei", "Segoe UI", "Heiti SC", "WenQuanYi Micro Hei", "Hiragino Sans GB", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
     font-size: 95%;
     width: 100%
 }
@@ -1214,7 +1214,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 a {
-    font-family: Roboto, "Open Sans", "Microsoft YaHei", "Helvetica Neue", Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-family: inherit;
     -webkit-transition: all .24s ease;
     transition: all .24s ease;
     color: #333;
@@ -1354,7 +1354,7 @@ input[type=text], input[type=email], input[type=url], input[type=password] {
 }
 
 #nav-menu a, #nav-vertical a {
-    font-family: Roboto, "Open Sans", "Microsoft YaHei", "Helvetica Neue", Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif
+    font-family: inherit
 }
 
 #nav-menu a {
@@ -1702,7 +1702,7 @@ input[type=text], input[type=email], input[type=url], input[type=password] {
 
 .card-title {
     font-size: 20px;
-    font-weight: 600;
+    font-weight: 700;
     line-height: 1.4
 }
 
@@ -1774,7 +1774,7 @@ input[type=text], input[type=email], input[type=url], input[type=password] {
 .post-title {
     text-align: center;
     font-size: 1.5rem;
-    font-weight: 600;
+    font-weight: 700;
     margin: 20px auto
 }
 
@@ -1805,7 +1805,7 @@ input[type=text], input[type=email], input[type=url], input[type=password] {
 }
 
 .post-content h1, .post-content h2, .post-content h3, .post-content h4, .post-content h5, .post-content h6 {
-    font-weight: 600;
+    font-weight: 700;
     line-height: 1.5;
     margin: 20px 10px 10px
 }
